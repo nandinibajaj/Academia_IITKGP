@@ -1,0 +1,10 @@
+Number of nodes: 4039
+Number of nodes after removing nodes with ID=3:  2692
+Number of edges: 39116
+Number of edges after removing nodes with ID=3: 39116
+Number of nodes with highest degree: 696
+Node IDs of nodes with highest degree: [107]
+Fraction of nodes in the largest connected component: 0.9684249628528975
+Number of articulation points: 33
+Number of connected components: 37
+Diameter of the largest connected component: 13
