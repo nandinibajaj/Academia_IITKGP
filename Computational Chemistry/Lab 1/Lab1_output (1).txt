@@ -1,0 +1,65 @@
+Enter the number of particles:  10
+Enter the mass of the particle:  1
+Enter x component of velocity of particle 1 : 
+1.1
+Enter y component of velocity of particle 1 : 
+1.03
+Enter z component of velocity of particle 1 : 
+-1.1
+Enter x component of velocity of particle 2 : 
+-1.2
+Enter y component of velocity of particle 2 : 
+1.3
+Enter z component of velocity of particle 2 : 
+1.1
+Enter x component of velocity of particle 3 : 
+1.1
+Enter y component of velocity of particle 3 : 
+-1.3
+Enter z component of velocity of particle 3 : 
+1.1
+Enter x component of velocity of particle 4 : 
+1.1
+Enter y component of velocity of particle 4 : 
+-1.03
+Enter z component of velocity of particle 4 : 
+-1.1
+Enter x component of velocity of particle 5 : 
+-1.1
+Enter y component of velocity of particle 5 : 
+-1.03
+Enter z component of velocity of particle 5 : 
+1.1
+Enter x component of velocity of particle 6 : 
+0.9
+Enter y component of velocity of particle 6 : 
+1.0
+Enter z component of velocity of particle 6 : 
+1.1
+Enter x component of velocity of particle 7 : 
+0.9
+Enter y component of velocity of particle 7 : 
+-1.0
+Enter z component of velocity of particle 7 : 
+1.1
+Enter x component of velocity of particle 8 : 
+-0.9
+Enter y component of velocity of particle 8 : 
+1.0
+Enter z component of velocity of particle 8 : 
+1.1
+Enter x component of velocity of particle 9 : 
+0.9
+Enter y component of velocity of particle 9 : 
+-1.0
+Enter z component of velocity of particle 9 : 
+-1.1
+Enter x component of velocity of particle 10 : 
+-0.9
+Enter y component of velocity of particle 10 : 
+-1.0
+Enter z component of velocity of particle 10 : 
+1.1
+
+
+KE of the system containing 10 particles:  16.99635

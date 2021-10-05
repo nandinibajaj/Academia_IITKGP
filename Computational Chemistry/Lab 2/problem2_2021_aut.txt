@@ -1,0 +1,18 @@
+
+(a) Write a single code with options to calculate pairwise interaction
+    potential energy as a function of distance 'r' (V(r)) with a width 'dr' for
+      1) Square-well potential (with lambda = 2)
+      2) Soft-sphere potential (with neu = 1 and 10)
+      3) 12-6 Lennard-Jones potential
+
+    Submit the code.
+
+(b) Using the code calculate V(r) for all the three potential forms, 
+    for liquid argon (sigma = 3.4 Angs, and epsilon = 1 kJ/mol), by varying 
+    the distance between the pairs from 3 to 15 Angstroms with an width 
+    dr=0.5 Angstrom.
+
+    Plot the results for each potential form. In the plots use a maximum 
+    cut-off in V(r) at 2 kJ/mol.
+
+    Submit the graphs.

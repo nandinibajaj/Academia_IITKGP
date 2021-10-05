@@ -1,0 +1,5 @@
+Potential Energy for step  1  =  -2067.9064297969207  kJ / mol
+Potential Energy for step  2  =  -2047.0301909069062  kJ / mol
+Potential Energy for step  3  =  -2056.215577890881  kJ / mol
+Potential Energy for step  4  =  -2055.5009115162293  kJ / mol
+Potential Energy for step  5  =  -2041.4760724951134  kJ / mol

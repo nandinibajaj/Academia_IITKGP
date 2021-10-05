@@ -1,0 +1,30 @@
+
+The attached data file (argon_coord_05.txt) contains the coordinates of 
+365 Argon atoms in liquid state as obtained from 5 successive MD steps 
+of a simulation in a cubic cell of dimension 26 Angs. The interaction 
+between the Ar atoms can be described by pairwise 12-6 Lennard-Jones 
+potential form, the parameters of which are given below.
+
+Modify the code developed for solving Problem 4 to calculate
+
+(a) The total pairwise potential energy (V) of the system in each of
+the 5 configurations.
+
+(b) The magnitude of force acting on each atom (|F|) in ONLY the 
+1st configuration.
+
+
+Required data:
+-------------
+sigma = 3.4 Angs.
+epsilon = 1 kJ/mol.
+cell dimension (L) = 26 Angs.
+Cut-off radius(r_c) = 10 Angs.
+
+Hints and important points:
+--------------------------
+(1) PBC, minimum image conventions and cut-off sphere have to be implemented.
+(2) V should be reported in kJ/mol unit.
+(3) Force should be reported in kg*Angs/fs^2 unit 
+(4) Derive and implement the expression of force for shifted-force LJ model 
+in the code.
