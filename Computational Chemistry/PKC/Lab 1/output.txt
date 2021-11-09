@@ -1,0 +1,27 @@
+Iteration: 1  value of x is:  10
+Iteration: 2  value of x is:  0.10393685719723211
+Iteration: 3  value of x is:  0.21598756854877066
+Iteration: 4  value of x is:  0.24725984786621835
+Iteration: 5  value of x is:  0.2568720951721512
+Iteration: 6  value of x is:  0.2599093641515325
+Iteration: 7  value of x is:  0.2608773224905268
+Iteration: 8  value of x is:  0.2611866416989473
+Iteration: 9  value of x is:  0.2612855727119234
+Iteration: 10  value of x is:  0.2613172230239416
+Iteration: 11  value of x is:  0.2613273495832502
+Iteration: 12  value of x is:  0.2613305896809272
+Iteration: 13  value of x is:  0.26133162639316015
+Iteration: 14  value of x is:  0.2613319581039515
+The final value of x by iterative method is:  0.2613320642396249
+
+
+Iteration: 1  value of x is:  5.367072030007054
+Iteration: 2  value of x is:  3.1239321378110825
+Iteration: 3  value of x is:  1.938315719847564
+Iteration: 4  value of x is:  1.2469262439163478
+Iteration: 5  value of x is:  0.9720853444063232
+Iteration: 6  value of x is:  0.8965012744065297
+Iteration: 7  value of x is:  0.8886817479357434
+Iteration: 8  value of x is:  0.8885935185500831
+Iteration: 9  value of x is:  0.8885935072815577
+The final value of x by newton raphson is:  0.2613320642396249
