@@ -1,0 +1,58 @@
+Dataset: Football
+ Number of communities using Clauset method:6
+Dataset: Polbooks
+ Number of communities using Clauset method:4
+
+Dataset: Football
+ Community1: (number_of_nodes = 27, number_of_edges = 107)
+
+Dataset: Football
+ Community2: (number_of_nodes = 23, number_of_edges = 94)
+
+Dataset: Football
+ Community3: (number_of_nodes = 21, number_of_edges = 84)
+
+Dataset: Football
+ Community4: (number_of_nodes = 21, number_of_edges = 77)
+
+Dataset: Football
+ Community5: (number_of_nodes = 13, number_of_edges = 50)
+
+Dataset: Polbooks
+ Community1: (number_of_nodes = 49, number_of_edges = 201)
+
+Dataset: Polbooks
+ Community2: (number_of_nodes = 41, number_of_edges = 176)
+
+Dataset: Polbooks
+ Community3: (number_of_nodes = 12, number_of_edges = 25)
+
+Dataset: Polbooks
+ Community4: (number_of_nodes = 3, number_of_edges = 3)
+
+Dataset:Football
+ coverage of community 1=0.17455138662316477
+Dataset:Football
+ coverage of community 2=0.1533442088091354
+Dataset:Football
+ coverage of community 3=0.1370309951060359
+Dataset:Football
+ coverage of community 4=0.12561174551386622
+Dataset:Football
+ coverage of community 5=0.08156606851549755
+
+Dataset: Football
+ Jaccard coefficient = 0.5416666666666666
+
+Dataset:Polbooks
+ coverage of community 1=0.4557823129251701
+Dataset:Polbooks
+ coverage of community 2=0.39909297052154197
+Dataset:Polbooks
+ coverage of community 3=0.05668934240362812
+Dataset:Polbooks
+ coverage of community 4=0.006802721088435374
+
+Dataset: Polbooks
+ Jaccard coefficient = 0.29545454545454547
+

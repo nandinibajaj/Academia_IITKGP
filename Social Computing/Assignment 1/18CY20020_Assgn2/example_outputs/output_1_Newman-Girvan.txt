@@ -1,0 +1,53 @@
+Dataset: Football
+ Number of communities using Newman-Girvan method:12
+Dataset: Polbooks
+ Number of communities using Newman-Girvan method:3
+
+Dataset: Football
+ Community1: (number_of_nodes = 15, number_of_edges = 57)
+
+Dataset: Football
+ Community2: (number_of_nodes = 13, number_of_edges = 50)
+
+Dataset: Football
+ Community3: (number_of_nodes = 12, number_of_edges = 48)
+
+Dataset: Football
+ Community4: (number_of_nodes = 11, number_of_edges = 44)
+
+Dataset: Football
+ Community5: (number_of_nodes = 10, number_of_edges = 40)
+
+Dataset: Polbooks
+ Community1: (number_of_nodes = 53, number_of_edges = 213)
+
+Dataset: Polbooks
+ Community2: (number_of_nodes = 45, number_of_edges = 183)
+
+Dataset: Polbooks
+ Community3: (number_of_nodes = 7, number_of_edges = 16)
+
+Dataset:Football
+ coverage of community 1=0.0929853181076672
+Dataset:Football
+ coverage of community 2=0.0929853181076672
+Dataset:Football
+ coverage of community 3=0.0929853181076672
+Dataset:Football
+ coverage of community 4=0.0929853181076672
+Dataset:Football
+ coverage of community 5=0.0929853181076672
+
+Dataset: Football
+ Jaccard coefficient = 1.3
+
+Dataset:Polbooks
+ coverage of community 1=0.48299319727891155
+Dataset:Polbooks
+ coverage of community 2=0.48299319727891155
+Dataset:Polbooks
+ coverage of community 3=0.48299319727891155
+
+Dataset: Polbooks
+ Jaccard coefficient = 6.5
+
